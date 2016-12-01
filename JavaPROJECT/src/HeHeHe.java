@@ -8,14 +8,11 @@ public class HeHeHe {
 		int i=0;
 		int y=0;
 		String url = "www.dkcns.com";
-		
 		String string_a = new HeHeHe().returnString();
 		System.out.println(string_a);
-
 		String code = new HeHeHe().toString();
 		System.out.println("memory hex " + code);
 		System.out.println("hh");
-		/*소스를 바꾸어봅니다.*/
 		System.out.println("local chagne!");
 	}
  
