@@ -5,6 +5,9 @@ public class HeHeHe {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Hello World@");
+		int i=0;
+		int y=0;
+		String url = "www.dkcns.com";
 	}
-
+ 
 }
