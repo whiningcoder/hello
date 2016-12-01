@@ -14,8 +14,9 @@ public class HeHeHe {
 
 		String code = new HeHeHe().toString();
 		System.out.println("memory hex " + code);
-	  System.out.println("hh");
+		System.out.println("hh");
 		/*소스를 바꾸어봅니다.*/
+		System.out.println("local chagne!");
 	}
  
 	public String returnString(){
