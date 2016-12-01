@@ -8,6 +8,10 @@ public class HeHeHe {
 		int i=0;
 		int y=0;
 		String url = "www.dkcns.com";
+		
+		String code = new HeHeHe().toString();
+		System.out.println("memory hex " + code);
+		
 	}
  
 }
