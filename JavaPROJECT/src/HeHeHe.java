@@ -11,6 +11,10 @@ public class HeHeHe {
 		
 		String string_a = new HeHeHe().returnString();
 		System.out.println(string_a);
+
+		String code = new HeHeHe().toString();
+		System.out.println("memory hex " + code);
+
 	}
  
 	public String returnString(){
